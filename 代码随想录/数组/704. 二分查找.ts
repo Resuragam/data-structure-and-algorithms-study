@@ -26,3 +26,4 @@ function search(nums: number[], target: number) {
 const nums = [-1, 0, 3, 5, 9, 12],
     target = 9;
 console.log(search(nums, target));
+export {}
